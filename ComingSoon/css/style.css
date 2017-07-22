@@ -1,0 +1,20 @@
+.navbar-custom{}
+.navbar a{
+	color:white;
+	font-weight:bold;
+
+}
+.nav li a:hover{
+	background:black;
+
+}
+
+img{
+	
+	width:1500px;
+	height:800px;
+}
+.text{
+	font-size:30px;
+	color:black;
+}
